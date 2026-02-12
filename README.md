@@ -29,9 +29,5 @@ Criar uma página simples, rápida e reutilizável para divulgar serviços e ger
 
 ## 📂 Estrutura do Projeto
 
-spa-prestador-servico/
-├── index.html
-├── css/
-├── js/
-└── assets/
+https://biz-reach-chat.lovable.app
 
